@@ -1,0 +1,19 @@
+{
+    "language": "English",
+    "translation": {
+        "LoginTitle": "Welcome Back",
+        "LoginSubTitle": "Sign In to your account",
+        "LoginEmailLabel": "Email Address",
+        "LoginPasswordLabel": "Password",
+        "Login": "Login",
+        "Logout": "Logout",
+        "CheckIn": "Checkin",
+        "CheckOut": "Checkout",
+        "Date": "Date",
+        "CheckInTitle": "Your {{days}} Records",
+        "Hello": "Hello",
+        "DateRange7Days": "Last 7 Days",
+        "DateRange14Days": "Last 14 Days",
+        "EmailAndPasswordRequired": "Email And Password is Required"
+    }
+}
